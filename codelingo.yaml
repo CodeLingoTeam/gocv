@@ -1,0 +1,5 @@
+tenets:
+  - codelingo/effective-go/underscores-in-name
+  - codelingo/effective-go/update-comment-first-word-as-subject
+  - codelingo/effective-go/comment-first-word-when-empty
+  - codelingo/effective-go/avoid-annotations-in-comments
